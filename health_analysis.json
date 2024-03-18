@@ -2,7 +2,7 @@
     "conditions": [
       {
         "name": "Thyroid",
-        "imagesrc":"thyroid.jpg",
+        "imagesrc":"https://www.maxlab.co.in/category/1667462132.jpg",
         "symptoms": [
           "Fatigue",
           "Weight gain or loss",
@@ -19,7 +19,7 @@
       },
       {
         "name": "Diabetes",
-        "imagesrc":"diabeties.jpg",
+        "imagesrc":"https://www.medtecheurope.org/wp-content/uploads/2018/11/diabetes-1440x961.png",
         "symptoms": [
           "Frequent urination",
           "Increased thirst",
@@ -36,7 +36,7 @@
       },
       {
         "name": "High Blood Pressure",
-        "imagesrc":"blood_pressure.jpg",
+        "imagesrc":"https://www.uclahealth.org/sites/default/files/styles/landscape_3x2_018000_720x480/public/images/81/woman-with-high-blood-pressure-istock-1296154975-3.jpg?f=42b0fc66&itok=q8ps3G8S",
         "symptoms": [
           "Headaches",
           "Shortness of breath",
